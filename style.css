@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+body{background-color: cornflowerblue;
+     font-family: 'Zen Dots';
+
+}
+.container{position: absolute; left: 350px; top: 10px;}
+.clock{font-size: 25px;}
+h1{}
+footer{position: absolute; left: 0; bottom: 0;}
+img{width: 420px; height: 315px;}
+button{position:absolute; bottom: 10px; right: 275px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: darkslateblue;
+    color: floralwhite;
+    border-radius: 25px;
+    border: none;
+  }
